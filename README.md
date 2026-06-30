@@ -56,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Suvani04/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Suvani04/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Suvani04/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Suvani04/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Suvani04/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Suvani04/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
