@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Suvani04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Suvani04/DSA-Practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Suvani04/DSA-Practice/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Suvani04/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Suvani04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Suvani04/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvani04/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Suvani04/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suvani04/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Suvani04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
