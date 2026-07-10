@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Suvani04/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Suvani04/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Suvani04/DSA-Practice/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Suvani04/DSA-Practice/tree/master/0092-reverse-linked-list-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Suvani04/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Suvani04/DSA-Practice/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Suvani04/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Suvani04/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Suvani04/DSA-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Suvani04/DSA-Practice/tree/master/0206-reverse-linked-list) |
