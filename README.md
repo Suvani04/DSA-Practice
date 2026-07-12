@@ -118,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suvani04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0038-count-and-say](https://github.com/Suvani04/DSA-Practice/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
