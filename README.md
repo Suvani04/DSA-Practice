@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Suvani04/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Suvani04/DSA-Practice/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Suvani04/DSA-Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Suvani04/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Suvani04/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvani04/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0713-subarray-product-less-than-k](https://github.com/Suvani04/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Suvani04/DSA-Practice/tree/master/0724-find-pivot-index) |
