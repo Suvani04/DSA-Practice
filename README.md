@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Suvani04/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Suvani04/DSA-Practice/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Suvani04/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Suvani04/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Suvani04/DSA-Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Suvani04/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Suvani04/DSA-Practice/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Suvani04/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvani04/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0713-subarray-product-less-than-k](https://github.com/Suvani04/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Suvani04/DSA-Practice/tree/master/0724-find-pivot-index) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Suvani04/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Suvani04/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
