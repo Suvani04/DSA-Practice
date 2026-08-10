@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Suvani04/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Suvani04/DSA-Practice/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Suvani04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suvani04/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 ## Linked List
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Suvani04/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Suvani04/DSA-Practice/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Suvani04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Suvani04/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Merge Sort
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Suvani04/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suvani04/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvani04/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Suvani04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0713-subarray-product-less-than-k](https://github.com/Suvani04/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Suvani04/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suvani04/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
