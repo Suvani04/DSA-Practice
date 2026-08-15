@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suvani04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Suvani04/DSA-Practice/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Suvani04/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Suvani04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suvani04/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
