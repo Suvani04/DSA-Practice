@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suvani04/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2270-number-of-ways-to-split-array](https://github.com/Suvani04/DSA-Practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Suvani04/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
+| [2678-number-of-senior-citizens](https://github.com/Suvani04/DSA-Practice/tree/master/2678-number-of-senior-citizens) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suvani04/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suvani04/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2678-number-of-senior-citizens](https://github.com/Suvani04/DSA-Practice/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Suvani04/DSA-Practice/tree/master/3110-score-of-a-string) |
 ## Design
 |  |
