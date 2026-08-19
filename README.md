@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Suvani04/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suvani04/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Suvani04/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1408-string-matching-in-an-array](https://github.com/Suvani04/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Suvani04/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Suvani04/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1929-concatenation-of-array](https://github.com/Suvani04/DSA-Practice/tree/master/1929-concatenation-of-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Suvani04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suvani04/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1408-string-matching-in-an-array](https://github.com/Suvani04/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suvani04/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2678-number-of-senior-citizens](https://github.com/Suvani04/DSA-Practice/tree/master/2678-number-of-senior-citizens) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suvani04/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Suvani04/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
