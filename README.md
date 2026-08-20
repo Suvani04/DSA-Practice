@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suvani04/DSA-Practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Suvani04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Suvani04/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Suvani04/DSA-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Suvani04/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Suvani04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Suvani04/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Suvani04/DSA-Practice/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Suvani04/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suvani04/DSA-Practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Suvani04/DSA-Practice/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/Suvani04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Suvani04/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Suvani04/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suvani04/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suvani04/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Suvani04/DSA-Practice/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Suvani04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Suvani04/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Suvani04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/0392-is-subsequence) |
