@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Suvani04/DSA-Practice/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Suvani04/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Suvani04/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Suvani04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Suvani04/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suvani04/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Suvani04/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suvani04/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Suvani04/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Suvani04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Suvani04/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Suvani04/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suvani04/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
