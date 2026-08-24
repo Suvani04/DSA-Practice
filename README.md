@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Suvani04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Suvani04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Suvani04/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Suvani04/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0713-subarray-product-less-than-k](https://github.com/Suvani04/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Suvani04/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suvani04/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Suvani04/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suvani04/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String Matching
