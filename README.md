@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Suvani04/DSA-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Suvani04/DSA-Practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Suvani04/DSA-Practice/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Suvani04/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Suvani04/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Suvani04/DSA-Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Suvani04/DSA-Practice/tree/master/0148-sort-list) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Suvani04/DSA-Practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Suvani04/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Suvani04/DSA-Practice/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Suvani04/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Suvani04/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Suvani04/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/0392-is-subsequence) |
