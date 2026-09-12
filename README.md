@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Suvani04/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Suvani04/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Suvani04/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Suvani04/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Suvani04/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suvani04/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suvani04/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suvani04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Suvani04/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Suvani04/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suvani04/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Suvani04/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Merge Sort
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suvani04/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suvani04/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Suvani04/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Suvani04/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Suvani04/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Suvani04/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0713-subarray-product-less-than-k](https://github.com/Suvani04/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Suvani04/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Suvani04/DSA-Practice/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Suvani04/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suvani04/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suvani04/DSA-Practice/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Suvani04/DSA-Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
