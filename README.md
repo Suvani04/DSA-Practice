@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Suvani04/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Suvani04/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Suvani04/DSA-Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Suvani04/DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Suvani04/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Suvani04/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Suvani04/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Suvani04/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suvani04/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1408-string-matching-in-an-array](https://github.com/Suvani04/DSA-Practice/tree/master/1408-string-matching-in-an-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Suvani04/DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Suvani04/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suvani04/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Suvani04/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
