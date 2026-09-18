@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Suvani04/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suvani04/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suvani04/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Suvani04/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Suvani04/DSA-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Math
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Suvani04/DSA-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suvani04/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2270-number-of-ways-to-split-array](https://github.com/Suvani04/DSA-Practice/tree/master/2270-number-of-ways-to-split-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Suvani04/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Suvani04/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/Suvani04/DSA-Practice/tree/master/2678-number-of-senior-citizens) |
 ## Binary Search
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Suvani04/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Suvani04/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Suvani04/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2460-apply-operations-to-an-array](https://github.com/Suvani04/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
